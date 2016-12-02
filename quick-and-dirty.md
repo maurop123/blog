@@ -1,0 +1,3 @@
+- start as simple as possible, even if it looks ugly. the idea is to allow ideas and tests to flow unhindered.
+- once you think that your ability to test ideas is hindered by your lack of structure, then you add the structure, but only as much as you need.
+- helpful to document the moment you're adding complexity, namely why you're doing it. that is an assumption that can be reviewed later.
